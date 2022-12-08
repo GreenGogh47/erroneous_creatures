@@ -23,7 +23,7 @@ git clone git@github.com:turingschool-examples/erroneous_creatures.git
 * `unicorn_spec.rb` Done
 * `vampire_spec.rb`Done
 * `dragon_spec.rb` Done
-* `hobbit_spec.rb`
+* `hobbit_spec.rb` Done
 * `pirate_spec.rb`
 * `wizard_spec.rb`
 * `medusa_spec.rb`
