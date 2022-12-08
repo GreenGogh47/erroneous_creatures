@@ -14,7 +14,7 @@ class Pirate
   end
 
   def commit_heinous_act
-    @cursed + 1
+    @cursed += 1 # it wasn't increasing the amount of heinous acts because there wasn't an equal sign.
   end
 
   def say(x)

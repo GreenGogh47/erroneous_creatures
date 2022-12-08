@@ -9,7 +9,7 @@ class Wizard
   end
 
   def bearded?
-    @bearded
+    @bearded.values[0] #was returning as a hash, so we had to call the actual information.
   end
 
   def incantation(x)
